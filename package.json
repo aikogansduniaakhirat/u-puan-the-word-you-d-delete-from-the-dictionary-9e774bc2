@@ -1,0 +1,11 @@
+{
+  "name": "u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The one word this agent would erase from the dictionary forever, written to /output/entry.txt.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
